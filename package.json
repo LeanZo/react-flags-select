@@ -1,6 +1,6 @@
 {
   "name": "@leanzo/react-flags-select",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "@leanzo/react-flags-select React component",
   "main": "build/index.js",
   "module": "build/index.esm.js",
