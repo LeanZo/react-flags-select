@@ -1,7 +1,7 @@
 {
-  "name": "@LeanZo/react-flags-select",
-  "version": "1.0.0",
-  "description": "@LeanZo/react-flags-select React component",
+  "name": "@leanzo/react-flags-select",
+  "version": "1.0.2",
+  "description": "@leanzo/react-flags-select React component",
   "main": "build/index.js",
   "module": "build/index.esm.js",
   "files": [
@@ -93,9 +93,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/LeanZo/react-flags-select/issues"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/LeanZo"
   },
   "homepage": "https://github.com/LeanZo/react-flags-select#readme",
   "keywords": [
